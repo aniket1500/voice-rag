@@ -18,5 +18,5 @@ pip install -r requirements.txt
 Run the Streamlit app:
 
 ```bash
-streamlit run _streamlit_app_.py
+streamlit run voice_rag_streamlit_app_.py
 ```
